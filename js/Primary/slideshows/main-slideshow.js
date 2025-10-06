@@ -17,7 +17,7 @@ const mainSlideshowConfig = {
     },
     slides: [
             {
-            imageSrc: "assets/heroes/comp1.webp",
+            imageSrc: "assets/farm/farm3.webp",
             altText: "North Houston Horse Park - Beautiful horse riding experience"
         },
         {
