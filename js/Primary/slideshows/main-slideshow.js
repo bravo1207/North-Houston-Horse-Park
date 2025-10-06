@@ -16,6 +16,14 @@ const mainSlideshowConfig = {
         ctaText: "Contact Us"
     },
     slides: [
+            {
+            imageSrc: "assets/heroes/comp1.webp",
+            altText: "North Houston Horse Park - Beautiful horse riding experience"
+        },
+        {
+            imageSrc: "assets/heroes/Class_photo.webp",
+            altText: "North Houston Horse Park - Friendships that last forever"
+        },
         {
             imageSrc: "assets/heroes/comp1.webp",
             altText: "North Houston Horse Park - Beautiful horse riding experience"
